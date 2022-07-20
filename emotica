@@ -1,5 +1,116 @@
-#! /bin/sh
+( ; - ;)           Crying
+(O_O)           Surprised
+(-_-)           Bored
+(>_<)           Embarrassed
+¯\_(ツ)_/¯      Shrug
+(゜-゜)         Confused
+(¬_¬)           Unamused
+ヾ(´〇`)ﾉ♪♪♪    Singing
+(ᗒᗊᗕ)           Exited
+（￣ー￣）      Very bored
+(´-ω-`)         Sleepy cat
+(⌐■_■)          Cool sunglasses
+凸ಠ益ಠ)凸       Very angry midle finger
+┌∩┐(ಠ_ಠ)┌∩┐     Fuck. You.
+凸(¬‿¬)         Smug fuck you
+(>д<)           Very mad and angry
+(;´Д`)          Sad, fear, sweat
+（；¬＿¬)       Strained
+(¬､¬)           Unamused 2
+눈_눈           Tired
+(；☉_☉)         I fucked up big time
+(￣◇￣;)        Embarrassing answer
+(⌇ຶД⌇ຶ)           Sobbing and crying
+(¬‿¬)           Smug smiling
+(¬ω¬)           Cat smug
+(҂⌣̀_⌣́)          Ticked off
+(/ヘ￣､)        Facepalm
+(´・ω・)ﾉ       Cat wave
+(･ω･)ﾉ          Small cat wave
+( ´ω`)          Kot sleepy
+(^_^)／         Happy wave
+＼(￣O￣)       Open mouth wave
+＼(-_-)         Unamused wave
+(≧∇≦)/          Best friend wave
+(￣▽￣)ノ       Chill wave
+(￣▽￣)         Chill
+( ´ ▽ ` )ﾉ      Tired wave
+٩(ˊᗜˋ*)و        Victorious jump
+(^▽^)           Very happy
+( > ワ <)       Laughing, happy
+(o´ω`o)ﾉ        Shy cat wave
+ヾ(＾∇＾)       Friendly wave
+＿φ(￣ー￣)     Writing down unimportant notes
+___ψ(‥')        Writing down impotant notes
+＿φ(°-°=)       Noted.
+(^_−)☆          Wink with a twinkle
+(⌒.−)＝★        Small wink with a twinkle
+(・∧‐)ゞ        Lazy salute
+(〃´・ω・`)ゝ   Cat salute
+(｀･ω･´)ゞ      Small cat salute
+(￣ー￣)ゞ      Unamused salute
+(￣∇￣*)ゞ      Chill salute
+(ﾟдﾟ；)         Scared with sweat
+(ﾟДﾟ;)          Small scared with sweat left
+(;ﾟДﾟ)          Small scared with sweat right
+（ΦωΦ）         Cat
+(Ф∀Ф)           Happy cat
+(ФДФ)           Loud cat
+(^･ｪ･^)         Serious cat.
+▄︻̷̿┻̿═━一        Sniper
+︻╦̵̵͇̿̿̿̿══╤─         Gun
+ヽ(`Д´)ノ       Angry arm waving
+ヘ（。□°）ヘ    Crazy arms
+ミ●﹏☉ミ        Crazy face
+◴_◶             Dumb
+((´д｀))        Sad and tired
+(´ー`)          Tired straight face
+(´π｀)          Sick
+(≧Д≦)           Sad with anger
+(｡•́︿•̀｡)        Sad little dude
+(;﹏;)          It's "OK"
+(╯︵╰,)         Anguish
+(ᗒᗣᗕ)՞          Whiny cry
+(Ｔ▽Ｔ)         Tears of joy
+“ψ(｀∇´)ψ       Evil laugh
+(。-`ω´-)       Evil plans
+(* -`ω´- )人    Evil little shit
+＜(●｀∀´●)＞”   Evil laugh 2
+≖‿≖             Squinting "I know what you did" look
+≖_≖             Squinting "Wtf is wrong with you..." look
+（×ω×）         Dead cat
+(×_×;）         Dead
+(๑•̌.•̑๑)ˀ̣ˀ̣       Confused, huh?
+(ﾟﾍﾟ)           wat
+〜(￣▽￣〜)     Lazy dance
+(〜￣▽￣)〜     Lazy dance 2
+ヽ(´ー｀)ノ     Lazy dance 3
+ヽ(´∇`)ノ       Happy-sad dance
+（〜^∇^)〜      Happy dance
+(~‾⌣‾)~         Dance
+┌（★ｏ☆）┘      Pary dance
+〜(꒪꒳꒪;)〜   Cat dance
+(Г・ω・)г       Cat dance 2
+┌|≧∇≦|┘         Very happy dance
+(●♡∀♡)          In love
+(♥ω♥*)          Cat in love
+(∩ˇωˇ∩)♡        Cat in love 2
+∠( ᐛ 」∠)＿     Laying down
+ᗜˬᗜ             Fumo face
 
-cat /home/nobie/txt/emotica | dmenu -nb "#333333" -sb "#444444" -p "Select an emoticon" -i -l 20 | awk '{print $1}' | tr -d "\t" | xclip -selection "clipboard"
-
-notify-send -i /dev/null -u "low" "Successfuly coppied to your clipboard!"
+卐              Swastika
+卍              Reverse swastika
+࿕               Small swastika
+࿖               Reverse small swastika
+☭               Hammer and sickle
+✡               Star of david
+ᛋᛋ              Waffen SS
+€               Euro currency
+$               Dollar currency
+£               Pound currency
+✓               Check mark, tick mark
+█               Redaction, block character
+∞               Infinity
+™               Trademark
+★               Star, filled
+☆               Star, hollow
